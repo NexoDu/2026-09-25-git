@@ -1,4 +1,4 @@
-# 2026-09-25-git Git conflicts
+# Tuesday September 15: Git and Git conflicts
 
 ## What we'll cover
 
